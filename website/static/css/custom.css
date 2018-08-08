@@ -17,3 +17,7 @@
     color: $secondaryColor;
     border-color: $secondaryColor;
 }
+
+.largerImages .blockImage{
+    max-width: 450px;
+}
