@@ -83,6 +83,7 @@ class HomeSplash extends React.Component {
                     <PromoSection>
                         <Button href="#try">Try It Out</Button>
                         <Button href="https://github.com/sspipe/sspipe">Find Out More</Button>
+                        <Button href="https://github.com/sspipe/sspipe/issues/new">Feedback / Ask Question</Button>
                     </PromoSection>
                 </div>
             </SplashContainer>
